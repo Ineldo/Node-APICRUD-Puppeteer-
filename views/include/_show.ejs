@@ -1,0 +1,20 @@
+<%for(var i=0; i<products.length; i++){ %>
+<div class="product-card md-4">
+    <div class="product-tumb">
+      <img data-ng-src="<%=products[i].picture%>" alt="">
+    </div>
+    <div class="product-details">
+      <span class="product-catagory"><%=products[i].titulo%></span>
+      <p><a href="<%=products[i].url%>"></a><%=products[i].descricao%></p>
+      <div class="product-bottom-details">
+        <div class="product-price">$<%=products[i].preco%></div>
+        <div class="product-classificacao"><%=products[i].classificacao%><i class="fa fa-star"></i></div>
+        <div class="produto-review"><%=products[i].reviews%></div>
+        <div class="product-links">
+          <a href="/update-link?id=<%=products[i]._id%>" class="btn update" ><i class="fas fa-pencil-alt"></i></a>
+          <a href="#"class="btn delete" data-id="<%=products[i]._id%>"><i class="fas fa-times"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <% } %>

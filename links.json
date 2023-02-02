@@ -1,0 +1,182 @@
+[
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$321.94",
+  "titulo": "Lenovo V110-15IA...",
+  "descricao": "Lenovo V110-15IAP, 15.6\" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/548",
+  "review": "5 reviews",
+  "classificacao": "3"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$356.49",
+  "titulo": "Lenovo V110-15IA...",
+  "descricao": "Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6\" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/549",
+  "review": "6 reviews",
+  "classificacao": "2"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$404.23",
+  "titulo": "Lenovo ThinkPad...",
+  "descricao": "Lenovo ThinkPad E31-80, 13.3\" HD, Celeron 3855U 1.6GHz, 4GB, 128GB SSD, Windows 10 Home",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/557",
+  "review": "12 reviews",
+  "classificacao": "1"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$409.63",
+  "titulo": "Lenovo V110-15IS...",
+  "descricao": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 8GB, 128GB SSD, Windows 10 Home",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/559",
+  "review": "9 reviews",
+  "classificacao": "3"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$454.73",
+  "titulo": "Lenovo V110-15IS...",
+  "descricao": "Lenovo V110-15ISK, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Pro",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/567",
+  "review": "2 reviews",
+  "classificacao": "2"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$465.95",
+  "titulo": "Lenovo V110-15IK...",
+  "descricao": "Lenovo V110-15IKB, 15.6\" HD, Core i5-7200U, 4GB, 500GB, DOS",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/569",
+  "review": "7 reviews",
+  "classificacao": "1"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$484.23",
+  "titulo": "Lenovo V510 Blac...",
+  "descricao": "Lenovo V510 Black, 14\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/572",
+  "review": "8 reviews",
+  "classificacao": "3"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$487.80",
+  "titulo": "Lenovo V510 Blac...",
+  "descricao": "Lenovo V510 Black, 15.6\" HD, Core i3-6006U, 4GB, 128GB SSD, Windows 10 Home",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/574",
+  "review": "9 reviews",
+  "classificacao": "2"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$498.23",
+  "titulo": "Lenovo V510 Blac...",
+  "descricao": "Lenovo V510 Black, 15.6\" FHD, Core i3-7100U, 4GB, 128GB SSD, Windows 10 Pro",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/578",
+  "review": "5 reviews",
+  "classificacao": "3"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$999.00",
+  "titulo": "Lenovo ThinkPad...",
+  "descricao": "Lenovo ThinkPad L570, 15.6\" FHD, Core i7-7500U, 8GB, 256GB SSD, Windows 10 Pro",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/539",
+  "review": "11 reviews",
+  "classificacao": "3"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1096.02",
+  "titulo": "Lenovo ThinkPad...",
+  "descricao": "Lenovo ThinkPad L460, 14\" FHD IPS, Core i7-6600U, 8GB, 256GB SSD, Windows 10 Pro",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/579",
+  "review": "14 reviews",
+  "classificacao": "4"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1112.91",
+  "titulo": "Lenovo Legion Y5...",
+  "descricao": "Lenovo Legion Y520-15IKBM, Black, 15.6\" FHD IPS, Core i5-7300HQ, 8 GB, 128GB SSD + 2 TB HDD, NVIDIA GeForce GTX 1060 6 GB, FreeDOS + Windows 10 Home",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/586",
+  "review": "1 reviews",
+  "classificacao": "4"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1133.91",
+  "titulo": "Lenovo Legion Y5...",
+  "descricao": "Lenovo Legion Y520, 15.6\" FHD, Core i7-7700HQ, 8GB, 128 GB SSD + 1TB HDD, GTX 1050 4GB, Windows 10 Home",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/592",
+  "review": "13 reviews",
+  "classificacao": "1"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1149.00",
+  "titulo": "Lenovo Legion Y5...",
+  "descricao": "Lenovo Legion Y520-15IKBM, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 1TB, GeForce GTX 1060 Max-Q 6GB, DOS",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/540",
+  "review": "11 reviews",
+  "classificacao": "3"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1149.73",
+  "titulo": "Lenovo Yoga 720...",
+  "descricao": "Lenovo Yoga 720 Grey, 15.6\" FHD IPS, Core i5-7300HQ, 8GB, 256GB SSD, GeForce GTX 1050 2GB, Windows 10 Home",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/599",
+  "review": "12 reviews",
+  "classificacao": "2"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1199.73",
+  "titulo": "Lenovo Yoga 910...",
+  "descricao": "Lenovo Yoga 910 Grey, 13.9\" FHD Touch, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Home",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/608",
+  "review": "7 reviews",
+  "classificacao": "3"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1212.16",
+  "titulo": "Lenovo IdeaPad M...",
+  "descricao": "Lenovo IdeaPad Miix 510 Platinum Silver, 12.2\" IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/610",
+  "review": "0 reviews",
+  "classificacao": "4"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1349.23",
+  "titulo": "Lenovo ThinkPad...",
+  "descricao": "Lenovo ThinkPad T470, 14\" FHD IPS, Core i5-7200U, 8GB, 256GB SSD, Windows 10 Pro",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/628",
+  "review": "5 reviews",
+  "classificacao": "1"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1362.24",
+  "titulo": "Lenovo ThinkPad...",
+  "descricao": "Lenovo ThinkPad Yoga 370 Black, 13.3\" FHD IPS Touch, Core i5-7200U, 8GB, 256GB SSD, 4G, Windows 10 Pro",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/629",
+  "review": "12 reviews",
+  "classificacao": "2"
+ },
+ {
+  "imagemSrc": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+  "preco": "$1399.00",
+  "titulo": "Lenovo Legion Y7...",
+  "descricao": "Lenovo Legion Y720, 15.6\" FHD IPS, Core i7-7700HQ, 8GB, 128GB SSD + 2TB HDD, GeForce GTX 1060 6GB, DOS, RGB backlit keyboard",
+  "url": "https://webscraper.io/test-sites/e-commerce/allinone/product/541",
+  "review": "8 reviews",
+  "classificacao": "3"
+ }
+]
